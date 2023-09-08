@@ -39,7 +39,6 @@ abstract class Publisher
     {
         Name = name;
     }
-
     public abstract Book Publish();            // The main FACTORY CLASS for creating different object using only this class
 }
 
