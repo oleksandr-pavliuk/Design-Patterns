@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{FBB8F865-2948-4899-AD62-4FA0D41A97B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{CCC20C65-505F-4B92-B675-6A99E802C26B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{FBB8F865-2948-4899-AD62-4FA0D41A97B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBB8F865-2948-4899-AD62-4FA0D41A97B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBB8F865-2948-4899-AD62-4FA0D41A97B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCC20C65-505F-4B92-B675-6A99E802C26B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC20C65-505F-4B92-B675-6A99E802C26B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC20C65-505F-4B92-B675-6A99E802C26B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC20C65-505F-4B92-B675-6A99E802C26B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
