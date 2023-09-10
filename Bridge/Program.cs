@@ -39,7 +39,7 @@ public class Geometry : ISubject
 public abstract class Teacher
 {
     protected ISubject language;
-    public ISubject Language
+    public ISubject Language                 // this is a bridge between two abstractions or classes
     {
         set { language = value; }
     }
