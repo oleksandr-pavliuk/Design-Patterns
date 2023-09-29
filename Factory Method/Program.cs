@@ -26,7 +26,7 @@ class KSDBook : Book                            // The first class which will be
     public KSDBook(string name) : base(name){}
 }
 
-class BukvaBook : Book                         // The first class which will be created by the FACTORY
+class BukvaBook : Book                         // The second class which will be created by the FACTORY
 { 
     public BukvaBook(string name) : base(name){}
 }
