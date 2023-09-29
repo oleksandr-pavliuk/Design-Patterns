@@ -9,7 +9,7 @@ public class SingletonClass
 
     public static SingletonClass GetInstance()   // static method for getting this one instance
     {
-        if (instance == null)
+        if (instance is null)
             instance = new SingletonClass();
         return instance;
     }
